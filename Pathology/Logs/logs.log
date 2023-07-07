@@ -1,0 +1,10 @@
+2023-07-07 17:45:25,771  INFO [main] TestBase:58 - launching chrome browser
+ 2023-07-07 17:45:31,932  INFO [main] TestBase:70 - Navigating to The URL 
+ 2023-07-07 17:45:31,985  INFO [main] LoginPage:44 - passing correct id and password...
+ 2023-07-07 17:45:35,577  INFO [main] LoginPage:54 - Sign-In is Done.
+ 2023-07-07 17:45:35,581  INFO [main] HomePage:63 - verifying home page...
+ 2023-07-07 17:45:35,597  INFO [main] HomePage:69 - verifying test cost calculator...
+ 2023-07-07 17:45:58,772  INFO [main] HomePage:99 - total: 50 ?
+ 2023-07-07 17:45:58,871  INFO [main] HomePage:100 - total after applying discount: 50 ?
+ 2023-07-07 17:46:01,202  INFO [main] TestBase:87 - Browser closed
+ 
